@@ -2,8 +2,7 @@
 
 # معلومات الدخول
 USERNAME="also90up"
-TOKEN="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"
-
+TOKEN="$GITHUB_TOKEN"
 # رابط المستودع الجديد
 REPO="https://github.com/also90up/m_mila.git"
 
